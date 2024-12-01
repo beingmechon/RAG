@@ -1,0 +1,16 @@
+pypdf
+langchain
+chromadb
+pytest
+boto3
+langchain_community
+langchain-ollama
+langchain-chroma
+langchain-openai
+langchain-aws
+langchain-huggingface
+python-dotenv
+jq
+unstructured
+markdown
+sentence_transformers 
